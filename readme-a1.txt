@@ -1,3 +1,6 @@
+My submission fully works on my personal computer. It does not run on the virtual machine ECS-GPU AVD because they do not have Visual Studio 2019 installed on the school computers. In the course syllabus, we are instructed to use Visual Studios 2019 despite this application not being available on the school lab computers. I downloaded this application and did the assignment on my pc and it works fully as intended. 
+
+I recieved this error when connected to the virtual machine: 
 PS C:\Users\rshindelus\Downloads\a1_VectorAddBasicMatrixMultiplicationTiledMatrixMultiplication_CSC163-main\a1_VectorAddBasicMatrixMultiplicationTiledMatrixMultiplication_CSC163-main\build> & "C:\Program Files\CMake\bin\cmake.exe" --build .
 CMake Error: The current CMakeCache.txt directory C:/Users/rshindelus/Downloads/a1_VectorAddBasicMatrixMultiplicationTiledMatrixMultiplication_CSC163-main/a1_VectorAddBasicMatrixMultiplicationTiledMatrixMultiplication_CSC163-main/build/CMakeCache.txt is different than the directory c:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/build where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
 CMake Error:
