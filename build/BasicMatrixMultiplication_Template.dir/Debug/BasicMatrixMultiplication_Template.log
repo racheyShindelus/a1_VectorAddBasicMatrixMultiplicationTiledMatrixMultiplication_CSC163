@@ -1,0 +1,6 @@
+﻿  Building NVCC (Device) object CMakeFiles/BasicMatrixMultiplication_Template.dir/BasicMatrixMultiplication/Debug/BasicMatrixMultiplication_Template_generated_template.cu.obj
+  template.cu
+  template.cu
+  Building Custom Rule C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/CMakeLists.txt
+     Creating library C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/build/Debug/BasicMatrixMultiplication_Template.lib and object C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/build/Debug/BasicMatrixMultiplication_Template.exp
+  BasicMatrixMultiplication_Template.vcxproj -> C:\Users\benjt\OneDrive\Desktop\Rachey\CSC-163\A1\A1\build\Debug\BasicMatrixMultiplication_Template.exe

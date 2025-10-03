@@ -1,0 +1,92 @@
+[
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbArg.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbArg.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbArg.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbCUDA.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbCUDA.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbCUDA.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbDataset.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbDataset.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbDataset.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbDirectory.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbDirectory.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbDirectory.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbExit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbExit.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbExit.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbExport.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbExport.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbExport.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbFile.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbFile.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbFile.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbImage.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbImage.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbImage.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbImport.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbImport.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbImport.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbInit.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbInit.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbInit.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbLogger.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbLogger.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbLogger.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbMPI.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbMPI.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbMPI.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbPPM.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbPPM.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbPPM.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbPath.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbPath.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbPath.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbSolution.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbSolution.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbSolution.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbSparse.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbSparse.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbSparse.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\wbTimer.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\wbTimer.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/wbTimer.cpp"
+},
+{
+  "directory": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1429~1.301\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I..\\..\\..\\libwb -I\"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v11.6\\include\" /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG /FoCMakeFiles\\wb.dir\\libwb\\vendor\\json11.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\benjt\\OneDrive\\Desktop\\Rachey\\CSC-163\\A1\\A1\\source\\libwb\\vendor\\json11.cpp",
+  "file": "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/libwb/vendor/json11.cpp"
+}
+]

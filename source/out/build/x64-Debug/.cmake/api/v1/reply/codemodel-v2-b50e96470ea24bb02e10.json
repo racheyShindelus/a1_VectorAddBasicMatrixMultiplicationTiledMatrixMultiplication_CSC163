@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.9"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "a1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicMatrixMultiplication_Template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicMatrixMultiplication_Template-Release-bfabb83fc8b7e2e41f14.json",
+					"name" : "BasicMatrixMultiplication_Template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TiledMatrixMultiplication_Template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TiledMatrixMultiplication_Template-Release-7317829b28a880a06ce3.json",
+					"name" : "TiledMatrixMultiplication_Template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VectorAdd_Template::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VectorAdd_Template-Release-399bcee03050c4f33c0e.json",
+					"name" : "VectorAdd_Template",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wb-Release-bdb824a5066a1d9c0343.json",
+					"name" : "wb",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source/out/build/x64-Debug",
+		"source" : "C:/Users/benjt/OneDrive/Desktop/Rachey/CSC-163/A1/A1/source"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
